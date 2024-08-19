@@ -1,30 +1,29 @@
 ## Lab Members
 
 ## Pamela A. Moon
-Biological Scientist
-<img src="images/.jpg" alt="" width="200" height="300" >
+Biological Scientist <br>
+<img src="images/.jpg" alt="" width="200" height="300" > <br>
 
 ## Vincent Njung'e Michael
-Biological Scientist
-<img src="images/.jpg" alt="" width="200" height="300" >
+Biological Scientist <br>
+<img src="images/.jpg" alt="" width="200" height="300" > <br>
 
 ## Jin Li
-Postdoctoral Researcher
-<img src="images/.jpg" alt="" width="200" height="300" >
+Postdoctoral Researcher <br>
+<img src="images/.jpg" alt="" width="200" height="300" > <br>
 
 ## Manuel Gastelbondo
-Graduate Student
-<img src="images/.jpg" alt="" width="200" height="300" >
+Graduate Student <br>
+<img src="images/.jpg" alt="" width="200" height="300" > <br>
 
 ## Jesse D. Potts
-Graduate Student
-<img src="images/.jpg" alt="" width="200" height="300" >
+Graduate Student <br>
+<img src="images/.jpg" alt="" width="200" height="300" > <br>
 
 ## Sisi Chen
-Graduate Student
-<img src="images/.jpg" alt="" width="200" height="300" >
-
+Graduate Student <br>
+<img src="images/.jpg" alt="" width="200" height="300" > <br>
 
 ## Alejandra B. Taco Vilatuña
-Graduate Student
-<img src="images/.jpg" alt="" width="200" height="300" >
+Graduate Student <br>
+<img src="images/.jpg" alt="" width="200" height="300" > <br>
