@@ -1,7 +1,6 @@
 ## Lab Members
 
-## Pamela A. Moon
-Biological Scientist <br>
+## Pamela A. Moon | Biological Scientist <br>
 <img src="images/.jpg" alt="" width="200" height="300" > <br>
 
 ## Vincent Njung'e Michael
