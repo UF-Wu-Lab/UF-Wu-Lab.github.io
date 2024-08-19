@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "CV.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "xingbo.wu@ufl.edu"}
+  - {title: Mail, file: "contact.md", icon: envelope}
   - {title: Github, icon: github, url: "https://github.com/UF-Wu-Lab"}
   - {title: Twitter, icon: twitter, url: "https://x.com/XingboWu"}
 
