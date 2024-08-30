@@ -7,7 +7,10 @@
 <img src="images/.jpg" alt="" width="200" height="300" > <br>
 
 ## Jin Li | Postdoctoral Researcher <br>
-<img src="images/JinLi.jpeg" alt="" width="280" height="210" > <br>
+
+<br>
+
+<img src="images/JinLi.jpeg" alt="" width="210" height="280" > <br>
 
 <br>
 
