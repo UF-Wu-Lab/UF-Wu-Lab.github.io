@@ -24,7 +24,7 @@
 
 <br>
 
-I am a postdoctoral associate working with Dr. Xingbo Wu. I obtained my Ph.D. from Case Western Reserve University in 2023 and then worked as a postdoc at USDA ARS in Miami for one year. My expertise is in genomics and bioinformatics, with a focus on genome assembly, gene prediction, evolutionary analysis, and comparative genomics. I also have experience with breeding, population analyses, GWAS, and QTL mapping. My current projects include mango pangenome analyses, transcriptomic studies, and tropical ornamental genome assembly and evolutionary analysis. <br>
+I am a postdoctoral associate working with Dr. Xingbo Wu. I obtained my Ph.D. from Case Western Reserve University in 2023 and then worked as a postdoc at USDA ARS in Miami for one year. My expertise is in genomics and bioinformatics, with a focus on genome assembly, gene prediction, evolutionary analysis. I also have experience with breeding, including population analyses, GWAS, and QTL mapping. My current projects include mango pangenome analyses, transcriptomic studies, and tropical ornamental genome assembly and evolutionary analysis. <br>
 
 <br>
 
