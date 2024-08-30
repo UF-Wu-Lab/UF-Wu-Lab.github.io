@@ -20,7 +20,7 @@
 
 <br>
 
-<img src="images/JinLi.JPG" alt="" width="210" height="280" > <br>
+<img src="images/JinLi.jpg" alt="" width="280" height="210" > <br>
 
 <br>
 
