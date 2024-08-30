@@ -1,16 +1,26 @@
 ## Lab Members
 
 ## Pamela A. Moon | Biological Scientist <br>
-<img src="images/.jpg" alt="" width="200" height="300" > <br>
+
+<br>
+
+<img src="images/.jpg" alt="" width="210" height="280" > <br>
+
+<br>
 
 ## Vincent Njung'e Michael | Biological Scientist <br>
-<img src="images/.jpg" alt="" width="200" height="300" > <br>
+
+<br>
+
+<img src="images/.jpg" alt="" width="210" height="280" > <br>
+
+<br>
 
 ## Jin Li | Postdoctoral Researcher <br>
 
 <br>
 
-<img src="images/JinLi.jpeg" alt="" width="210" height="280" > <br>
+<img src="images/JinLi.JPG" alt="" width="210" height="280" > <br>
 
 <br>
 
@@ -21,13 +31,33 @@ I am a postdoctoral associate working with Dr. Xingbo Wu. I obtained my Ph.D. fr
 Email: jinli@ufl.edu <br>
 
 ## Manuel Gastelbondo | Graduate Student <br>
-<img src="images/.jpg" alt="" width="200" height="300" > <br>
+
+<br>
+
+<img src="images/.jpg" alt="" width="210" height="280" > <br>
+
+<br>
 
 ## Jesse D. Potts | Graduate Student <br>
-<img src="images/.jpg" alt="" width="200" height="300" > <br>
+
+<br>
+
+<img src="images/.jpg" alt="" width="210" height="280" > <br>
+
+<br>
 
 ## Sisi Chen | Graduate Student <br>
-<img src="images/.jpg" alt="" width="200" height="300" > <br>
+
+<br>
+
+<img src="images/.jpg" alt="" width="210" height="280" > <br>
+
+<br>
 
 ## Alejandra B. Taco Vilatuña | Graduate Student <br>
-<img src="images/.jpg" alt="" width="200" height="300" > <br>
+
+<br>
+
+<img src="images/.jpg" alt="" width="210" height="280" > <br>
+
+<br>
