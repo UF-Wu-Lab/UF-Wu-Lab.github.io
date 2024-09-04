@@ -20,7 +20,7 @@
 
 <br>
 
-<img src="./images/jinli.jpg" alt="" width="280" height="210" > <br>
+<img src="https://github.com/UF-Wu-Lab/UF-Wu-Lab.github.io/blob/master/images/jinli.jpg" alt="" width="280" height="210" > <br>
 
 <br>
 
