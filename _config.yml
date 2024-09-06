@@ -16,11 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "About.pdf", title: "About"}
-  - {file: "people.md", title: "People"}
-  - {file: "Projects.pdf", title: "Projects"}
-  - {file: "Publications.pdf", title: "Publications"}
-  - {file: "Extension.pdf", title: "Extension"}
+  - {file: "About.md", title: "About"}
+  - {file: "People.md", title: "People"}
+  - {file: "Research.md", title: "Research"}
+  - {file: "Extension.md", title: "Extension"}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
