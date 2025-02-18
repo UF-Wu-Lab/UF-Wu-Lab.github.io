@@ -1,6 +1,4 @@
-<br>
-
-## Projects
+# Projects
 
 <br>
 
