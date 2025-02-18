@@ -34,7 +34,7 @@ Email: jinli@ufl.edu <br>
 
 <br>
 
-<img src="images/.jpg" alt="" width="210" height="280" > <br>
+<img src="https://raw.githubusercontent.com/UF-Wu-Lab/UF-Wu-Lab.github.io/master/images/jinli.jpg" alt="" width="280" height="210" /> <br>
 
 <br>
 
