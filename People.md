@@ -1,6 +1,4 @@
-<br>
-
-## Lab Members
+# Lab Members
 
 <br>
 
