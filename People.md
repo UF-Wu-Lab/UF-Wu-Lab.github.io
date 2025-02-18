@@ -1,6 +1,6 @@
 ## Lab Members
 
----
+<br>
 
 ## Pamela A. Moon | Biological Scientist <br>
 
