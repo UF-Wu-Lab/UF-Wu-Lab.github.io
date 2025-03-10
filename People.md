@@ -56,7 +56,7 @@ Email: jinli@ufl.edu <br>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/UF-Wu-Lab/UF-Wu-Lab.github.io/master/images/.jpg" alt="" width="210" height="280" > <br>
+<img src="https://github.com/UF-Wu-Lab/UF-Wu-Lab.github.io/blob/master/images/Jesse%20Potts.jpg" alt="" width="210" height="280" > <br>
 
 <br>
 
@@ -64,7 +64,10 @@ I am a Ph.D. candidate in Horticulture at the University of Florida, working und
 
 <br>
 
-LinkedIn: www.linkedin.com/in/jesse-potts-1b7029216
+LinkedIn:  
+<a href="https://www.linkedin.com/in/jesse-potts-1b7029216" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="24" height="24">
+</a>
 
 ## Sisi Chen | Graduate Student <br>
 
