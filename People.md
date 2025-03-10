@@ -56,7 +56,7 @@ Email: jinli@ufl.edu <br>
 
 <br>
 
-<img src="https://github.com/UF-Wu-Lab/UF-Wu-Lab.github.io/blob/master/images/JessePotts.jpg" alt="" width="210" height="280" > <br>
+<img src="https://github.com/UF-Wu-Lab/UF-Wu-Lab.github.io/blob/master/images/Jesse.jpg" alt="" width="210" height="280" > <br>
 
 <br>
 
