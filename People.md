@@ -26,9 +26,17 @@ title: ""
 
 <br>
 
-<img src="https://raw.githubusercontent.com/UF-Wu-Lab/UF-Wu-Lab.github.io/master/images/.jpg" alt="" width="210" height="280" > <br>
+<img src="https://raw.githubusercontent.com/UF-Wu-Lab/UF-Wu-Lab.github.io/master/images/Rebecca.jpg" alt="" width="280" height="280" > <br>
 
 <br>
+
+I am currently a research assistant at the University of Florida’s Tropical Research and Education Center (TREC). I earned my Bachelor of Science in Applied Economics and Management from Cornell University and applied my skills as a Sales and Marketing Manager for a hybrid vegetable seed company in Sydney, Australia, and an indoor hydroponic farm in Arlington, VA. After relocating to Miami, I transitioned to the cannabis industry, where I now work full-time in direct-to-consumer logistics. <br>
+
+With a passion for food, wine, flowers, and agriculture, I enjoy supporting the research at TREC and in Dr. Wu’s lab. I assist with research on vanilla and contribute to public and private trials of ornamental varieties for local and national growers. <br>
+
+<br>
+
+Email: rebeccamcclung@ufl.edu <br>
 
 ## Jin Li | Postdoctoral Researcher <br>
 
