@@ -36,7 +36,14 @@ With a passion for food, wine, flowers, and agriculture, I enjoy supporting the 
 
 <br>
 
+
 Email: rebeccamcclung@ufl.edu <br>
+
+LinkedIn:  
+<a href="https://www.linkedin.com/in/rebecca-mcclung-053b06a9/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="24" height="24">
+</a>
+
 
 ## Jin Li | Postdoctoral Researcher <br>
 
