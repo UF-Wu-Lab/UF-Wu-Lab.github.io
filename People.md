@@ -79,6 +79,8 @@ I am a Ph.D. candidate in Horticulture at the University of Florida, working und
 
 <br>
 
+Email: jpotts3@ufl.edu <br>
+
 LinkedIn:  
 <a href="https://www.linkedin.com/in/jesse-potts-1b7029216" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="24" height="24">
