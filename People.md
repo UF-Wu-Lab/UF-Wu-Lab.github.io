@@ -75,7 +75,7 @@ Email: jinli@ufl.edu <br>
 
 <br>
 
-I am a Ph.D. candidate in Horticulture at the University of Florida, working under the guidance of Dr. Xingbo Wu. My research focuses on CRISPR-based gene editing to enhance disease resistance and stress tolerance in crops such as vanilla orchids and tomatoes. I have extensive experience in plant biotechnology techniques—ranging from plant transformation and proteomic analysis to molecular assays for trait discovery. My current projects involve dissecting the molecular mechanisms of viral resistance in vanilla (targeting genes like EIF4e and EXA1) and engineering stress-resilient tomato lines through targeted transcription factor modifications.
+I am a Ph.D. candidate in Horticulture at the University of Florida, working under the guidance of Dr. Xingbo Wu. My research focuses on CRISPR-based gene editing to enhance disease resistance and stress tolerance in crops such as vanilla orchids and tomatoes. I have extensive experience in plant biotechnology techniques—ranging from plant transformation and proteomic analysis to molecular assays for trait discovery. My current projects involve dissecting the molecular mechanisms of viral resistance in vanilla (targeting genes like eIF4E and EXA1) and engineering stress-resilient tomato lines through targeted transcription factor modifications.
 
 <br>
 
