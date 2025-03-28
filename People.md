@@ -59,14 +59,6 @@ I am a postdoctoral associate working with Dr. Xingbo Wu. I obtained my Ph.D. fr
 
 Email: jinli@ufl.edu <br>
 
-## Manuel Gastelbondo | Graduate Student <br>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/UF-Wu-Lab/UF-Wu-Lab.github.io/master/images/.jpg" alt="" width="280" height="210" /> <br>
-
-<br>
-
 ## Jesse D. Potts | Graduate Student <br>
 
 <br>
