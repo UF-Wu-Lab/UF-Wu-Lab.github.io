@@ -90,9 +90,15 @@ LinkedIn:
 
 <br>
 
-<img src="https://raw.githubusercontent.com/UF-Wu-Lab/UF-Wu-Lab.github.io/master/images/.jpg" alt="" width="210" height="280" > <br>
+<img src="https://raw.githubusercontent.com/UF-Wu-Lab/UF-Wu-Lab.github.io/master/images/Sisichen.jpg" alt="" width="210" height="280" > <br>
 
 <br>
+
+I am currently a Ph.D. candidate under the supervision of Dr. Xingbo Wu. My research focuses on evaluating genetic and phenotypic variation in tropical hibiscus and developing genomic tools to support breeding efforts for this economically important ornamental crop. I have extensive experience in genomic studies, which has enabled me to contribute to breeding research in papaya and vanilla, integrating evolutionary insights with applied genomics to advance crop improvement.
+
+<br>
+
+Email: sisi.chen@ufl.edu <br>
 
 ## Alejandra B. Taco Vilatuña | Graduate Student <br>
 
