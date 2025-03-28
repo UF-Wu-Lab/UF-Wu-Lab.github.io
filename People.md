@@ -104,6 +104,13 @@ Email: sisi.chen@ufl.edu <br>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/UF-Wu-Lab/UF-Wu-Lab.github.io/master/images/.jpg" alt="" width="210" height="280" > <br>
+<img src="https://raw.githubusercontent.com/UF-Wu-Lab/UF-Wu-Lab.github.io/master/images/Alejandra.jpg" alt="" width="210" height="280" > <br>
 
 <br>
+
+I am a graduate student in Horticultural Sciences at the University of Florida under the guidance of Dr. Xingbo Wu. My research entails Controlled Environment Agriculture (CEA) with the objective of optimizing nitrogen management and light intensity to maximize Vanilla planifolia production for increased yield and sustainability. Holding a bachelor's degree from Zamorano University and having intern in the Ornamental Breeding Laboratory of the Tropical Research and Education Center, I am determined to promote sustainable agricultural development. My interest lies in taking academic research into applied practice, in addition to guiding prospective horticulturists and empowering communities with little access to educational resources to take an active role in sustainable food production systems.
+
+<br>
+
+Email: alejandr.tacovil@ufl.edu <br>
+
