@@ -6,15 +6,19 @@ title: ""
 
 <br>
 
-## Pamela A. Moon | Biological Scientist <br>
+## Pamela A. Moon | Biological Scientist III <br>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/UF-Wu-Lab/UF-Wu-Lab.github.io/master/images/.jpg" alt="" width="210" height="280" > <br>
+<img src="https://raw.githubusercontent.com/UF-Wu-Lab/UF-Wu-Lab.github.io/master/images/Pam.png" alt="" width="210" height="280" > <br>
 
 <br>
 
-## Vincent Njung'e Michael | Biological Scientist <br>
+Email: pamoon@ufl.edu
+### ResearchGate Profile  
+[Pamela Moon](https://www.researchgate.net/profile/Pamela-Moon)  
+
+## Vincent Njung'e Michael | Biological Scientist III <br>
 
 <br>
 
