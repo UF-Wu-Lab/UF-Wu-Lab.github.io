@@ -21,7 +21,7 @@ ResearchGate Profile: [Pamela Moon](https://www.researchgate.net/profile/Pamela-
 
 <br>
 
-<img src="https://raw.githubusercontent.com/UF-Wu-Lab/UF-Wu-Lab.github.io/master/images/.jpg" alt="" width="210" height="280" > <br>
+<img src="https://raw.githubusercontent.com/UF-Wu-Lab/UF-Wu-Lab.github.io/master/images/Vincent.png" alt="" width="280" height="280" > <br>
 
 <br>
 
