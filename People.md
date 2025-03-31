@@ -15,8 +15,7 @@ title: ""
 <br>
 
 Email: pamoon@ufl.edu
-### ResearchGate Profile  
-[Pamela Moon](https://www.researchgate.net/profile/Pamela-Moon)  
+ResearchGate Profile: [Pamela Moon](https://www.researchgate.net/profile/Pamela-Moon)  
 
 ## Vincent Njung'e Michael | Biological Scientist III <br>
 
