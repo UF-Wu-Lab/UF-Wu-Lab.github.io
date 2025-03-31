@@ -28,8 +28,8 @@ ResearchGate Profile: [Pamela Moon](https://www.researchgate.net/profile/Pamela-
 I have a Ph.D. in Horticulture from the University of Florida with a background in plant breeding, genetics, and genomics. My current projects in Dr. Wu's lab focus on germplasm characterization, trait mapping, gene profiling, and cultivar development. <br>
 
 Email: michael.vn@ufl.edu <br>
-ResearchGate Profile: [Vincent Njunge](https://www.researchgate.net/profile/Vincent-Njunge)  <br>
-Google Scholar: [Vincent Njunge](https://scholar.google.com/citations?hl=en&user=6sAfOLUAAAAJ&view_op=list_works&sortby=pubdate) <br>
+ResearchGate Profile: [Vincent Njung'e Michael](https://www.researchgate.net/profile/Vincent-Njunge)  <br>
+Google Scholar: [Vincent Njung'e Michael](https://scholar.google.com/citations?hl=en&user=6sAfOLUAAAAJ&view_op=list_works&sortby=pubdate) <br>
 
 
 ## Rebecca McClung | Research Assistant <br>
